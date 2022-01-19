@@ -1,2 +1,2 @@
-# function_basic
+# function_lesson
 python lectureのfunction勉強用
